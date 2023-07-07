@@ -1,30 +1,11 @@
-markdown
+
 
 <h1 align="center">
   <br>
-  cryptoWatch Live Cryptocurrency
+  CryptoWatch Live Cryptocurrency
   <br>
 </h1>
 
-<p align="center">
-  <strong>Real-time updates on cryptocurrency prices</strong>
-</p>
-
-<p align="center">
-  <img src="cryptoWatch-logo.png" alt="cryptoWatch Logo">
-</p>
-
-<p align="center">
-  <a href="#features">Features</a> •
-  <a href="#technologies-used">Technologies Used</a> •
-  <a href="#installation">Installation</a> •
-  <a href="#contribution">Contribution</a> •
-  <a href="#license">License</a>
-</p>
-
-<p align="center">
-  <img src="cryptoWatch-screenshot.png" alt="cryptoWatch Screenshot">
-</p>
 
 ## Features
 

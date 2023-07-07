@@ -15,10 +15,3 @@
 - Personalized watchlist: Create a personalized watchlist of cryptocurrencies you are interested in and keep an eye on their prices.
 - Detailed information: Access comprehensive details about each cryptocurrency, including market cap, volume, and price charts.
 
-## Technologies Used
-
-- JavaScript
-- React
-- Vite
-- Tailwind CSS
-- API integration for real-time data updates

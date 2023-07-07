@@ -1,10 +1,7 @@
 
 
-<h1 align="center">
-  <br>
-  CryptoWatch Live Cryptocurrency
-  <br>
-</h1>
+## CryptoWatch Live Cryptocurrency
+
 
 
 ## Features
